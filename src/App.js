@@ -23,7 +23,7 @@ function App() {
               <>
               isLoggedIn ? (
                 <Route path='/add' element={<AddMovie/>}/>
-                <Route path='/details' element={<MovieDetails/>}/>
+                <Route path='/details/:id' element={<MovieDetails/>}/>
               ) : (
                 <Route path='/signin' element={<SignIn/>}/>
                 <Route path='/signup' element={<SignUp/>}/>

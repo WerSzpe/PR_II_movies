@@ -20,7 +20,7 @@ const HomeScreen = (props) => {
 
     useEffect(() => {
         getAllMovies();
-    });
+    },[]);
 
     return (
         <div className="jumbotron jumbotron-fluid">
@@ -35,7 +35,7 @@ const HomeScreen = (props) => {
                 {allMovies.map(mov => (
 
                     <div key={mov.id} style={{float:'left'}}>
-                        <MovieCard title={mov.title} image={mov.image} content={mov.content}/>
+                        <MovieCard id={mov.id} title={mov.title} image={mov.image} content={mov.content}/>
                     </div>
 
                 ))}
