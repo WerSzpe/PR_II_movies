@@ -49,8 +49,8 @@ const Navbar = (props) => {
                     {
                       isLoggedIn ? (
                         <div className="log-box">
-                          <button className="nav-point" onClick={()=>{logout()}}>log out</button>
-                          <Link to='/add'>add movie</Link>
+                          <button className="nav-point" id="btn-self" onClick={()=>{logout()}}>log out</button>
+                          <Link to='/add' className="nav-link nav-point">add movie</Link>
                         </div>
                       ) : (
                           <div className="log-box">

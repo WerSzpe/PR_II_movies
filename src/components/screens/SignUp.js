@@ -1,6 +1,49 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import axios from "axios";
+
+const styles = {
+  topRow: {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: '20px'
+  },
+  goBack:{
+    flex:'1',
+    color: '#091638',
+    textDecoration: 'none',
+    float: 'left',
+    padding: '10px',
+    margin:'15px'
+  },
+  title: {
+    flex:'2',
+    float: 'left',
+    padding: '10px',
+    margin:'15px',
+    fontSize: '20px'
+  },
+  boxOfInput: {
+    display:'flex',
+    flexDirection:'column',
+    alignItems:'center',
+    justifyContent:'center',
+    padding:'5px'
+  },
+  inputBox: {
+    width:'50%',
+    paddingTop:'10px',
+    paddingBottom:'10px',
+    marginTop:'10px',
+    marginBottom:'10px',
+  },
+  btt: {
+    width:'25%',
+    height:'60px',
+    fontSize:'20px'
+  }
+}
 
 const SignUp = () => {
 
@@ -49,50 +92,52 @@ const SignUp = () => {
 
     return (
         <div className="jumbotron jumbotron-fluid">
-            <div className="container">
-                <Link to="/"><button>Go back home</button></Link>
-                <h1 className="display-4">Sign up login email password</h1>
-
-                <div>
+            <div style={styles.container}>
+                <div style={styles.topRow}>
+                  <Link to="/" style={styles.goBack}>Go back home</Link>
+                  <h1 style={styles.title}>Sign up</h1>
+                </div>
+                <div style={styles.boxOfInput}>
                     <label htmlFor="username">Name</label>
                     <input value={username}
                             onChange={(input) => setUsername(input.target.value)}
                             name="username"
                             type="text"
-                            className="form-control"
+                            style={styles.inputBox}
                             id="username"
                             aria-describedby="emailHelp"
                             placeholder="Username"/>
                     {errors.username &&
                     <div className="alert alert-danger">{errors.username}</div>}
                 </div>
-                <div className="form-group">
+                <div style={styles.boxOfInput}>
                     <label htmlFor="email">Email address</label>
                     <input value={email}
                             onChange={(input) => setEmail(input.target.value)}
                             name="email"
                             type="email"
-                            className="form-control"
+                            style={styles.inputBox}
                             id="email"
                             aria-describedby="emailHelp"
                             placeholder="Email"/>
                     {errors.email &&
                     <div className="alert alert-danger">{errors.email}</div>}
                 </div>
-                <div className="form-group">
+                <div style={styles.boxOfInput}>
                     <label htmlFor="password">Password</label>
                     <input value={password}
                             onChange={(input) => setPassword(input.target.value)}
                             name="password"
                             type="password"
-                            className="form-control"
+                            style={styles.inputBox}
                             id="password"
                             placeholder="Password"/>
                     {errors.password &&
                     <div className="alert alert-danger">{errors.password}</div>}
                 </div>
-                <button className="btn btn-primary" onClick={(event)=>handleSubmit(event)}>SignUp</button>
-
+                <div style={styles.boxOfInput}>
+                  <button style={styles.btt} onClick={(event)=>handleSubmit(event)}>SignUp</button>
+                </div>
             </div>
         </div>
     )

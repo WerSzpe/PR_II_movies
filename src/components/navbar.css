@@ -21,7 +21,7 @@ img {
 }
 .nav-point {
     float: left;
-    color: #0d0d38;
+    color: #0c113d;
     text-decoration: none;
     padding: 10px;
 
@@ -35,7 +35,10 @@ img {
 }
 #navpoint {
   float: left;
-  color: #0d0d38;
+  color: #0c113d;
   text-decoration: none;
   padding: 10px;
+}
+#btn-self {
+  color: #0c113d;
 }
