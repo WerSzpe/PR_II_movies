@@ -1,0 +1,79 @@
+[
+    {
+        "title" : "Iron Man",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "7.6",
+        "tags" : "action, adventure, sci-fi",
+        "poster" : "https://image.ceneostatic.pl/data/products/36782320/i-iron-man.jpg"
+    },
+    {
+        "title" : "Iron Man 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "7.8",
+        "tags" : "action, adventure, sci-fi",
+        "poster" : "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1912460/4709676/apiesqoxe__54381.1626272089.jpg?c=2"
+    },
+    {
+        "title" : "Iron Man 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "5",
+        "tags" : "action, adventure, sci-fi",
+        "poster" : "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg"
+    },
+    {
+        "title" : "Spierman",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "9.6",
+        "tags" : "action, sci-fi",
+        "poster" : "https://m.media-amazon.com/images/I/51kzFX8Zr8L._AC_.jpg"
+    },
+    {
+        "title" : "Spiderman 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "9.8",
+        "tags" : "action, sci-fi",
+        "poster" : "https://m.media-amazon.com/images/I/716cZxwjKiL._AC_SL1196_.jpg"
+    },
+    {
+        "title" : "Spierman 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "4",
+        "tags" : "action, sci-fi",
+        "poster" : "https://m.media-amazon.com/images/I/71Ge7Hqy+8L._AC_SY679_.jpg"
+    },
+    {
+        "title" : "Spiderman: Into the spiderverse",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "10",
+        "tags" : "action, adventure, sci-fi, animated",
+        "poster" : "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg"
+    },
+    {
+        "title" : "Thor",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "7.7",
+        "tags" : "action, sci-fi",
+        "poster" : "https://www.themoviedb.org/t/p/original/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+    },
+    {
+        "title" : "Thor: The Dark World",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "6.7",
+        "tags" : "action, adventure, sci-fi, mythology",
+        "poster" : "https://static.wikia.nocookie.net/disney/images/9/93/Thor_The_Dark_World_Poster.jpg/revision/latest?cb=20160520222012"
+    },
+    {
+        "title" : "Thor: Ragnarok",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "10",
+        "tags" : "action, adventure, sci-fi, mythology",
+        "poster" : "https://m.media-amazon.com/images/I/61uApXPeWVL._AC_SY1000_.jpg"
+    },
+    {
+        "title" : "Maleficent",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend euismod tellus. Ut imperdiet, ante at semper euismod, elit dolor ultrices purus, a sagittis purus nunc ut sem. Maecenas cursus interdum dapibus. Vivamus lobortis congue dui, in pharetra risus feugiat eu. Phasellus cursus vehicula lobortis. Phasellus eu nunc vel diam porta aliquet vitae id turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non laoreet nisl. Vestibulum et quam interdum, rhoncus tellus et, feugiat nisi. Etiam tellus felis, mattis id erat nec, tristique mattis justo. Sed non vestibulum massa.Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at posuere ipsum. Proin volutpat iaculis congue. In id nunc dapibus, imperdiet elit non, mattis nulla. Morbi feugiat elementum porttitor. Etiam eu dui ac nunc placerat scelerisque non sit amet metus. Aliquam justo nulla, vestibulum rutrum pharetra at, facilisis in odio. Curabitur feugiat metus sed tincidunt volutpat. Maecenas in tempor libero.",
+        "rate" : "9.8",
+        "tags" : "action, adventure, fantasy",
+        "poster" : "https://m.media-amazon.com/images/I/51y1PM+wTRL._AC_.jpg"
+    }
+]

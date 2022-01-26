@@ -1,0 +1,27 @@
+.addBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#inputTitle {
+  margin: 10px;
+  padding: 5px;
+  width: 50%;
+}
+#inputImage {
+  margin: 10px;
+  padding: 5px;
+  width: 50%;
+}
+#inputContent {
+  margin: 10px;
+  padding: 5px;
+  width: 50%;
+}
+#butt {
+  font-size: 20px;
+  padding: 10px;
+  width: 25%;
+  margin-top: 10px;
+}
