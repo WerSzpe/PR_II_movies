@@ -40,7 +40,7 @@ const Navbar = (props) => {
                             aria-controls="pills-home" aria-selected="true">Movies</Link>
                 </li>
                 <li className="nav-item" >
-                    <img src='./film-128.png' alt='' />
+                    <img src='/film-128.png' alt='' />
                 </li>
                 <li>
                     <span className="app-title">YourMovi</span>
@@ -50,7 +50,7 @@ const Navbar = (props) => {
                       isLoggedIn ? (
                         <div className="log-box">
                           <button className="nav-point" id="btn-self" onClick={()=>{logout()}}>log out</button>
-                          <Link to='/add' className="nav-link nav-point">add movie</Link>
+                          <Link to='/add' className="nav-link nav-point" >add movie</Link>
                         </div>
                       ) : (
                           <div className="log-box">

@@ -6,21 +6,29 @@ const styles= {
   movieDetailsBox: {
     display:'flex',
     alignItems:'center',
-    flexDirection:'column'
+    flexDirection:'row'
+  },
+  textBoxes:{
+    display:'flex',
+    flexDirection:'column',
+    alignItems:'center',
+    justifyContent:'center'
   },
   title : {
     padding:'10px',
-    fontSize:'40px',
+    fontSize:'60px',
     fontStyle:'italic'
   },
   content: {
     padding:'15px',
-    fontSize:'15px'
+    fontSize:'15px',
+    margin:'50px'
   },
   img: {
-    flexDirection:'row'
+    flexDirection:'row',
+    width:'400px',
+    height:'600px'
   }
-
 }
 
 function imgErr(img) {
@@ -55,10 +63,11 @@ const MovieDetails = (props) => {
         <div style={styles.movieDetailsBox}>
             {updated ? (
               <>
-                <img src={props.image} alt='' onError={({currentTarget}) => imgErr(currentTarget)} style={styles.img}/>
-                <div style={styles.title}>{movie.title ? movie.title : 'Not found'}</div>
-                <div style={styles.content}>{movie.content ? movie.content : 'There is nothing about that movie here'}</div>
-
+                <img src={movie.image} alt='' onError={({currentTarget}) => imgErr(currentTarget)} style={styles.img}/>
+                <div style={styles.textBoxes}>
+                  <div style={styles.title}>{movie.title ? movie.title : 'Not found'}</div>
+                  <div style={styles.content}>{movie.content ? movie.content : 'There is nothing about that movie here'}</div>
+                </div>
               </>
             ) : null  }
         </div>

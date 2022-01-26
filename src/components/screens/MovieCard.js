@@ -13,7 +13,7 @@ const styles = {
       fontStyle:'bold'
     },
     img: {
-        height: '275px',
+        height: '300px',
         width: '200px'
     }
 }
